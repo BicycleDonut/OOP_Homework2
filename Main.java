@@ -1,7 +1,6 @@
 package Seminar2OOP_Homework;
 
 import Seminar2OOP_Homework.Residents.*;
-import Seminar2OOP_Homework.Residents.Base.AquaResidents;
 
 public class Main {
     public static void main(String[] args) {
