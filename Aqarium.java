@@ -1,6 +1,6 @@
-package OOP_HW02_Aquarium;
+package Seminar2OOP_Homework;
 
-import OOP_HW02_Aquarium.Residents.Base.AquaResidents;
+import Seminar2OOP_Homework.Residents.Base.AquaResidents;
 
 import java.util.ArrayList;
 import java.util.List;
