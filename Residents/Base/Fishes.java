@@ -1,6 +1,6 @@
 package Seminar2OOP_Homework.Residents.Base;
 
-import Seminar2OOP_Homework.Residents.Base.AquaResidents;
+import folder.Residents.Base.AquaResidents;
 
 public abstract class Fishes extends AquaResidents {
 
