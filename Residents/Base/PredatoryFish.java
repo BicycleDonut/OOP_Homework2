@@ -1,4 +1,4 @@
-package OOP_HW02_Aquarium.Residents.Base;
+package Seminar2OOP_Homework.Residents.Base;
 
 import Seminar2OPP_Homework.EatingFish;
 
